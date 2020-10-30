@@ -1,0 +1,98 @@
+		*******************************
+NAME          : VAMSI KRISHNA
+SURNAME       : GUDIPATI
+DATE OF BRITH : 15-1-2003
+AGE           : 17FATHER NAME   : MOTHER NAME   : RAMA KRISHNA		*******************************
+NAME          : VAMSI KRISHNA
+SURNAME       : GUDIPATI
+DATE OF BRITH : 15-1-2003
+AGE           : 17
+FATHER NAME   : 
+MOTHER NAME   : 
+
+		*******************************
+NAME          : vamsi krishna
+SURNAME       : gudipati
+DATE OF BRITH : 15-1-2003
+AGE           : 17
+FATHER NAME   : 
+MOTHER NAME   : rama krishna
+
+		*******************************
+NAME          : bn nv
+SURNAME       : gjhj
+DATE OF BRITH : 0-7738256-29
+AGE           : 0
+FATHER NAME   : ghy
+MOTHER NAME   : 
+
+		*******************************
+NAME          : vamsi krishna
+SURNAME       : gudipati
+DATE OF BRITH : 15-1-2003
+AGE           : 17
+FATHER NAME   : 
+MOTHER NAME   : lakshmi
+
+		*******************************
+NAME          : vk
+SURNAME       : gd
+DATE OF BRITH : 15-1-2003
+AGE           : 17
+FATHER NAME   : 
+MOTHER NAME   : lakshmi
+
+		*******************************
+NAME          : Sai Krishna
+SURNAME       : Gudipati
+DATE OF BRITH : 7-12-1997
+AGE           : 23
+FATHER NAME   : Rama Krishna
+MOTHER NAME   : Lakshmi
+
+		*******************************
+NAME          : Rama Krishna
+SURNAME       : Gudipati
+DATE OF BRITH : 27-12-1997
+AGE           : 54
+FATHER NAME   : Hanumanthu G
+MOTHER NAME   : Pramilamma G
+
+		*******************************
+NAME          : VAMSI KRISHNA
+SURNAME       : GUDIPATI
+DATE OF BRITH : 15-1-2003
+AGE           : 17
+FATHER NAME   : RAMA KRISHNA G
+MOTHER NAME   : LAKSHMI G
+		*******************************
+NAME : vamsi keishna
+SURNAME : gudipati
+DATE OF BIRTH : 15-1-2003
+AGE : 17
+FATHER NAME : rama krishna
+MOTHER NAME : lakshmi
+		*******************************
+NAME          : rgsjn
+SURNAME       : hfrg
+DATE OF BIRTH : 1205007454-0-4002344
+AGE           : 0
+FATHER NAME   : 
+MOTHER NAME   : 
+
+		*******************************
+NAME          : VAMSI KRISHNA
+SURNAME       : GUDIPATI VAMSI KRISHNA
+DATE OF BIRTH : 15-1-2003
+AGE           : 17
+FATHER NAME   : RAMA KRISHNA G
+MOTHER NAME   : LAKSHMI G
+
+		*******************************
+NAME          : vamsi
+SURNAME       : krishna
+FULL NAME     : krishnavamsi
+DATE OF BIRTH : 15-1-2003
+AGE           : 17
+FATHER NAME   : rama krishna
+MOTHER NAME   : lakshmi
