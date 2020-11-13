@@ -96,3 +96,21 @@ DATE OF BIRTH : 15-1-2003
 AGE           : 17
 FATHER NAME   : rama krishna
 MOTHER NAME   : lakshmi
+
+		*******************************
+NAME          : g ramakrishna
+SURNAME       : gudipati
+FULL NAME     : gudipatig ramakrishna
+DATE OF BIRTH : 15-1-1111
+AGE           : 32481
+FATHER NAME   : g hanumanthu
+MOTHER NAME   : g pramillaamma
+
+		*******************************
+NAME          : g vamsi krishna
+SURNAME       : gudipati
+FULL NAME     : gudipatig vamsi krishna
+DATE OF BIRTH : 15-1-2003
+AGE           : 18
+FATHER NAME   : g rama krishna
+MOTHER NAME   : g lakshmi
