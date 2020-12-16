@@ -11,7 +11,6 @@ int main(){
     }else{
         while(!feof(fp)){   //feof is used to know whether the line ends in file
             ch = fgetc(fp);
-            putchar(fgetc(fp));
             printf("%c",ch);
         }
         fclose(fp);

@@ -3,9 +3,10 @@
 
 int main(){
     char ch;
+
     FILE *fp;
 
-    fp = fopen("text.txt","r");
+    fp = fopen("fgetc2.c","r");
     if (fp == NULL){
         printf("Unable to open a file");
     }else{

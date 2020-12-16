@@ -2,7 +2,7 @@
 #include<conio.h>
 
 void display(int *a,int *b){
-    printf("a value is %d & b value is %d\n",*a,*b);
+    printf("a value is %d & b value is %d\n",*a+*b,abs(*a-*b));
     *a=100;
     *b=200;
     printf("after change a value is %d & b value is %d\n",*a,*b);
